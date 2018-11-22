@@ -1,0 +1,9 @@
+{
+  "name": "dna",
+  "version": "1.0.0",
+  "main": "convertToJson.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^2.1.0"
+  }
+}
