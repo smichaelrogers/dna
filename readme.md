@@ -1,10 +1,7 @@
 #dna
 
-my genetic data from [Helix](https://www.helix.com) containing ~200k SNP markers.
-
-includes .csv (original) and .json formats, and the script I used to create the .json file.
-
+my genetic markers from Helix and 23andme with a node script for consolidating all data into json + csv format.
 
 ## License
 
-MIT © [Scott Rogers](http://scottrogers.tech)
+MIT
